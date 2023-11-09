@@ -1,13 +1,3 @@
-### Oiii! Sou a Larissa!
-🎒Cursando Desenvolvimento de Sistemas
-<div align="center">
-  <a href="https://github.com/larissaesther">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissaesther&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaesther&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt= "" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- </div>
+![banner-github](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhelloworld&psig=AOvVaw0j90-cKPphdpI6PGnW6ErQ&ust=1699658816927000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjviNfOsIIDFQAAAAAdAAAAABAE)
+
+###Oii, prazer sou a Larissa
