@@ -12,5 +12,5 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
   ##
- ![Snake animation](https://github.com/larissaesther/larissaesther/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaellabalerini/rafaellabalerini/blob/output/github-contribution-grid-snake.svg)
  </div>
