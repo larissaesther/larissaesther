@@ -28,7 +28,8 @@ Sou capaz de resolver problemas, revisar códigos, Além disso, minha prioridade
 
 <b>Além da programação...</b>
 
-- Amo assistir documentários.
+- Amo assistir documentários, séries, filmes e desenhos.
+- Amo buscar vídeos que aumentem meu conhecimento.
 - Livro que amo com gênero de obra de época
   -  <a href='https://www.amazon.com.br/Mais-esperto-que-Diabo-liberdade/dp/8568014003/ref=sr_1_5?crid=3GSH2MZHKL3D3&keywords=mais+esperto+que+o+diabo&qid=1646604662&sprefix=Mais+es%2Caps%2C290&sr=8-5 https://www.amazon.com.br/Anne-green-gables-Lucy-Montgomery/dp/8538092669/ref=sr_1_5?adgrpid=136818154988&hvadid=595815709573&hvdev=c&hvlocphy=1001773&hvnetw=g&hvqmt=e&hvrand=12638685223756253853&hvtargid=kwd-598606143826&hydadcr=5735_13215258&keywords=anne+with+an+e+livro&qid=1699574031&sr=8-5'>Anne de Green Gables</a>
 
@@ -36,7 +37,7 @@ Sou capaz de resolver problemas, revisar códigos, Além disso, minha prioridade
   <table>
     <tr>
       <td><img src="https://64.media.tumblr.com/fc444f0e9e1555230f586be0162ab809/d79fab21b5780091-86/s540x810/d7803c0bc3a858e9e210c980ee9d8a766268568d.gifv"></td>
-      <td><img src="[https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo5_250.gifv](https://64.media.tumblr.com/1b0861ced55d0a8460481008dc987cb4/d79fab21b5780091-4b/s540x810/cca4f5311100a6804165ca987b91a8101ed23a48.gifv)"></td>
+      <td><img src="https://64.media.tumblr.com/1b0861ced55d0a8460481008dc987cb4/d79fab21b5780091-4b/s540x810/cca4f5311100a6804165ca987b91a8101ed23a48.gifv"></td>
     </tr>
   </table>
 </div>
