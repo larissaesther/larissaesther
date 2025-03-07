@@ -1,4 +1,3 @@
-username=alarissaesther&color=ff69b4"><br>
 <div align="center">
   <a href="https://github.com/larissaesther">
     <img align="center" src="welcomet.gif" width="500">
@@ -37,6 +36,8 @@ Sou capaz de resolver problemas, revisar códigos, Além disso, minha prioridade
   <table>
     <tr>
       <td><img src="https://64.media.tumblr.com/fc444f0e9e1555230f586be0162ab809/d79fab21b5780091-86/s540x810/d7803c0bc3a858e9e210c980ee9d8a766268568d.gifv"></td> 
+      </tr>
+      <tr>
       <td><img src="https://64.media.tumblr.com/1b0861ced55d0a8460481008dc987cb4/d79fab21b5780091-4b/s250x400/5f237e85d5d2e124f9381d6c895b62b435535839.gifv"></td>
     </tr>
   </table>
