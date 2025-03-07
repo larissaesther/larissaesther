@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=alarissaesther&color=ff69b4"><br>
+![image](https://github.com/user-attachments/assets/91253b31-3e55-4ff4-a9b6-ebbe142b19b0)<img align="right" src="https://komarev.com/ghpvc/?username=alarissaesther&color=ff69b4"><br>
 <div align="center">
   <a href="https://github.com/larissaesther">
     <img align="center" src="welcomet.gif" width="500">
