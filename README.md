@@ -19,7 +19,7 @@
   <b>"Sabedoria é saber o que fazer; habilidade é saber como fazer; virtude é fazer." - Benjamin Franklin</b>
 </div><br>
 
-Sou estudante de <b>Sistams de Informação</b> na Anhembi Morumbi (2025-2029) e atualmente estou a procura do meu 1° emprego como <b>Desenvolvedora Web</b> Minha principal stack é criação web com HTML, CSS, JavaS e PHP, mas sei desenvolver programas em JavaScript e Python, e criar db's com SQL e MySQL.
+Sou estudante de <b>Sistams de Informação</b> na Anhembi Morumbi (2025-2028) e atualmente estou a procura do meu 1° emprego como <b>Desenvolvedora Web</b> Minha principal stack é criação web com HTML, CSS, JavaS e PHP, mas sei desenvolver programas em JavaScript e Python, e criar db's com SQL e MySQL.
 
 Sou capaz de resolver problemas, revisar códigos, Além disso, minha prioridade na hora de desenvolver é o Clean Code, para ter a absoluta certeza que o código rode de maneira limpa, sustentável e de alta qualidade
 <br><br>
